@@ -13,7 +13,7 @@ Install requirements.txt by typing pip install -r requirements.txt in Command Pr
 Download an android emulator like BlueStacks, Memu, Nox, etc
 Download the Snapchat app on the emulator and login to your account
 Create a shortcut with a list of users that you want to send snaps to
-Run the file.exe script and follow the instructions shown.
+Run the file1.exe script and follow the instructions shown.
 
 **Please note**
 
